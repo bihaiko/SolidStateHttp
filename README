@@ -1,14 +1,16 @@
 Bem Vindos ao "Solid State Http".
 Este serah o primeiro servidor http prevalente do mundo.
 
-A ideia tomou forma em trabalho para um cliente que desenvolvimento rapido.
+A ideia tomou forma em trabalho para um cliente que queria desenvolvimento rapido.
 Com a ajuda do Klaus, montei um POC baseado em Jetty usando Tapestry com framework (vou commitar este POC aqui).
 
 Desta epoca ficou tambem um diagrama que ilustra a ideia original (Pretty.png).
-Fiz um rabisco com o Bruno e o Amarildo no restaurante (vcs podem comitar esta imagem?) e vamos iniciar listando os participantes, seus horarios disponiveis para pair.
+Fiz um novo rabisco com o Bruno e o Amarildo no restaurante (vcs podem comitar esta imagem?) com a evolucao desta ideia.
 
-Depois vamos listar quais as tecnologias que temos que explorar e vamos comecar a implementar pequenos spikes para provar a arquitetura.
-Para tudo isso vamos usar o Wiki do github como repositorio.
+Vamos iniciar listando os participantes, seus horarios disponiveis para pair.
+Depois vamos listar quais as tecnologias que temos que explorar.
+Vamos implementar pequenos spikes para provar a arquitetura, sempre em pares.
+Para documentar tudo isso vamos usar o Wiki do github.
 
 Eh isso...
 ...jah comecou!
