@@ -1,0 +1,9 @@
+Bem Vindos ao "Solid State Http".
+Este será o primeiro servidor http prevalente do mundo.
+
+A ídeia tomou forma em trabalho para um cliente que desenvolvimento rápido.
+Com a ajuda do Klaus, montei um POC baseado em Jetty usando Tapestry com framework (vou commitar este POC aqui).
+
+Desta época ficou também um diagrama da primeira idéia que trabalhamos:
+
+
